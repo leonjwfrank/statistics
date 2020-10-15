@@ -8,6 +8,7 @@
 
 
 ## 结构
+   博客链接：https://github.com/passjwhub/python_funs_notes
     .
     ├── cart_edu  # 存放整个项目
     │   ├── apps  # 存放应用模块包
