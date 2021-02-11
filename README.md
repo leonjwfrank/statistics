@@ -49,8 +49,10 @@
   
 ## 基于tornado的可交互数据可视化操作
   查询线条各处的值    
-    ![info_gif](./design/dark-param.gif)
+      
+  ![info_gif](./design/dark-param.gif)
   
-  实时展示资源变得趋势
-    ![live_gif](./design/exam122.gif)
+  实时展示资源变得趋势    
+  
+  ![live_gif](./design/exam122.gif)
     
