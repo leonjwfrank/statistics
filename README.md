@@ -46,3 +46,11 @@
     ├── config.py  # 配置文件
     ├── logs  # 日志文件目录
     └── manager.py  # 启动文件
+  
+## 基于tornado的可交互数据可视化操作
+####    查询线条各处的值    
+    ![info_gif](./design/dark-param.gif)
+
+####  实时展示资源变得趋势
+    ![live_gif](./design/exam122.gif)
+    
