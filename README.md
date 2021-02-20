@@ -52,7 +52,7 @@
       
   ![info_gif](./design/dark-param1.gif)
   
-  实时展示资源变得趋势    
+  实时展示 和调整 仿真时钟趋势    
   
-  ![live_gif](./design/exam122.gif)
+  ![live_gif](./design/111fastf.gif)
     
