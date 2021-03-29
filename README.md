@@ -8,7 +8,7 @@
 
 
 ## 结构
-   博客链接：https://github.com/leonjwfrank/python_funs_notes
+   博客链接：https://github.com/SuboFrank/python_funs_notes
 
     .
     ├── cart_edu  # 存放整个项目
