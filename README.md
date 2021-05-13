@@ -49,10 +49,8 @@
   
 ## 基于tornado的可交互数据可视化操作
   查询线条各处的值    
-      
-  ![info_gif](./design/dark-param1.gif)
+       
   
-  实时展示 和调整 仿真时钟趋势    
-  
-  ![live_gif](./design/111fastf.gif)
+  实时展示 和调整 趋势    
+   
     
