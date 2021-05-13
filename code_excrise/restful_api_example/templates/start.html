@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Application Home Page</title>
+    <link rel="stylesheet" href="static/css/normalize.min.css">
+    <link rel="stylesheet" href="static/css/start.css">
+    <script
+      src="static/js/jquery.min.js"
+      integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+      crossorigin="anonymous">
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h1 class="banner">点餐平台</h1>
+        <h2 class="banner">查看菜单: <a href="http://127.0.0.1:5000/menu">访问菜单</a></h2>
+        <div class="section editor">
+            <label for="lname">姓名:
+                <input id="lname" type="text" />
+            </label>
+            <br />
+            <label for="fname">下单:
+                <input id="fname" type="text" />
+            </label><br />
+            <br />
+            <label for="price">价格:
+                <input id="price" type="text" />
+            </label><br />
+
+            <button id="create">下单</button>
+            <button id="update">更新</button>
+            <button id="delete">删除</button>
+            <button id="reset">重置</button>
+            <button id="menu">更新菜单</button>
+        </div>
+        <div class="people">
+            <table>
+                <caption>下单列表</caption>
+                <thead>
+                    <tr>
+                        <th>Last Name</th>
+                        <th>Food Name</th>
+                        <th>Price </th>
+                        <th>Update Time</th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+        </div>
+        <div class="error">
+        </div>
+    </div>
+</body>
+<script src="static/js/start.js"></script>
+</html>
