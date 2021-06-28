@@ -7,7 +7,7 @@ cart example
 
     :copyright: ©Frankxue
     :author: Frankxue
-    :contact: fram.gaya@gmail.com
+    :contact: autocommsky@gmail.com
 
 for example cart coupon
 

@@ -73,7 +73,7 @@ class EmployeeFactory(object):
 
 if __name__ == '__main__':
     # case 1
-    admin = Admin('jack', 18, 5)
+    admin = Admin('jack', 19, 5)
     print(admin.get_role())
     print(admin)
     try:
@@ -84,3 +84,5 @@ if __name__ == '__main__':
     # case 2
     print(EmployeeFactory().create('SoftwareEngineer', 'jack', 24, 'M'))
     print(EmployeeFactory.create('engineer', 'Sam', 25, 'F'))
+    print(EmployeeFactory.create('engineer', 'jack', 19, 'F'))
+

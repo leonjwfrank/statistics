@@ -64,7 +64,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 # original version URL: http://tungwaiyip.info/software/HTMLTestRunner.html
 
-__author&editor__ = "Tim Frank"   #2019 autocommsky@gmail.com
+__authoreditor__ = "Tim Frank"   #2019 autocommsky@gmail.com
 __version__ = "0.9.0"
 
 
